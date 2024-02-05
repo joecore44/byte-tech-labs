@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "ByteTech Labs LLC.",
   description: "Software development, Fractional CTO / DevOps services and cutting edge technology solutions.",
+  
 };
 
 export default function RootLayout({
